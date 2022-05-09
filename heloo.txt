@@ -1,0 +1,5 @@
+total 16
+drwxr-xr-x  4 root   root   4096 May  8 23:28 .
+drwxr-xr-x 20 root   root   4096 Apr  7 11:48 ..
+drwxr-x--- 28 uday   uday   4096 May  9 09:49 uday
+drwxr-x---  2 uk0724 uk0724 4096 May  8 23:28 uk0724
