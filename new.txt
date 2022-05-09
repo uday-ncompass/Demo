@@ -1,0 +1,5 @@
+total 12
+drwxrwxr-x  3 uday uday 4096 May  9 09:54 .
+drwxr-x--- 28 uday uday 4096 May  9 09:53 ..
+drwxrwxr-x  7 uday uday 4096 May  9 09:53 .git
+-rw-rw-r--  1 uday uday    0 May  9 09:54 new.txt
